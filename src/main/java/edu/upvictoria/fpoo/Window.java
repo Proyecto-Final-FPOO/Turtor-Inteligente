@@ -1,2 +1,11 @@
-package edu.upvictoria.fpoo;public class Window {
+package edu.upvictoria.fpoo;
+
+import javax.swing.*;
+
+public class Window extends JFrame {
+
+    private class PanelComponent extends JPanel{
+
+    }
+
 }
